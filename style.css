@@ -1,0 +1,27 @@
+html{
+    background-color: black;
+}
+
+div{
+    width: 50%;
+    margin: 25%;
+    margin-top: 80px;
+}
+
+#changes_in_img{
+    width: 100%;
+    border: 5px solid white;
+}
+
+#header{
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#font-change{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    color: white;
+}
